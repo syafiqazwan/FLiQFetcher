@@ -1,0 +1,6 @@
+Type    Description
+21      Main Service Monitoring
+22      All Services Monitoring
+24      Counter/Room Monitoring
+26      Waiting Transaction Monitoring
+27      Complete Transaction Monitoring
